@@ -12,8 +12,10 @@ The workflow used for designing this project is based on an interface that conne
 
 
 ##Data Capture and Processing 
+
 Utilization of the Mediapipe library through the plugin to perform real-time body segmentation and extract information related to color and position. TD is used to interpret the data for generative art and interactions between the two components.
 
 
-##Visual Interaction 
+##Visual Interaction
+
 Design of two effects in TouchDesigner that dynamically respond to the user’s movements, poses and interface interactions.
